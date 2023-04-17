@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "423720830831",
+    "project_id": "spending-manager-996ac",
+    "storage_bucket": "spending-manager-996ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423720830831:android:4aec2d900fd42dc6d3ca9a",
+        "android_client_info": {
+          "package_name": "com.example.spending_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423720830831-2lacg7t8jjc96gergd4t0aj2kpha2agq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj-9A5JseQckninN4mSvBFucE4whY0AQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423720830831-2lacg7t8jjc96gergd4t0aj2kpha2agq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
